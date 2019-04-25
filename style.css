@@ -1,0 +1,60 @@
+
+body.home{ display: contents;
+    background-color:black;
+    background-image: url(hungergames%201.jpg);
+    background-repeat: no-repeat;
+    background-position:top;
+    background-size:cover;
+    background-attachment: fixed;
+    color:white;
+        font-size: 150%;
+    text-align: left;   
+
+}
+
+
+body.characters { display: contents;
+     background-color:black;
+    background-image: url(hungergames%201.jpg);
+    background-repeat: no-repeat;
+    background-position:top;
+    background-size:cover;
+    background-attachment: fixed;
+    color:white;
+        font-size: 150%;
+    text-align: left;   
+}
+
+    
+
+
+body.katnisseverdeen{ display: contents;
+    background-color: black;
+     font-size: 150%;
+    text-align: left;   
+    
+    
+}
+audio{ 
+display: none;
+}
+
+.container{
+    display:grid;
+    width:50%;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 20px;
+}
+.container a{
+    color:orangered;
+    text-align: center; 
+    width: auto; 
+    
+}
+
+img{
+    margin-left: 50px;
+    margin-right:10px;
+}
+
+    
